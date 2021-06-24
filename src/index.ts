@@ -1,4 +1,4 @@
-import { iLike } from "./Opinions";
+import { iLike } from "./opinions";
 
 debugger;
-iLike("Bananas");
+console.log(iLike("Bananas"));
